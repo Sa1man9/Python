@@ -1,0 +1,4 @@
+2025-09-21 21:18:39 - ArithematicApp - DEBUG - Adding 10 + 15= 25
+2025-09-21 21:18:39 - ArithematicApp - DEBUG - Subtracting 15 - 10= 5
+2025-09-21 21:18:39 - ArithematicApp - DEBUG - Multiplying 10 * 20= 200
+2025-09-21 21:18:39 - ArithematicApp - ERROR - Zero Division erro: division by zero
